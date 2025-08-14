@@ -28,7 +28,7 @@ This repository contains a Jupyter notebook for professional volatility forecast
 - **5. Strategy Implementation:** Backtests risk-adjusted strategies using volatility forecasts.
 - **6. Visualization & Export:** Plots results and exports data for further use.
 
-## Professional Notes
+## Notes
 - All code is written for clarity and reproducibility.
 - The notebook is self-contained and ready for use in research or production environments.
 - Results are presented with professional metrics and visualizations for easy interpretation.
